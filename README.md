@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dsp312324
-- 👀 I’m interested in Programmin
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning DSA
 
 <!---
